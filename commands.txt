@@ -6,3 +6,5 @@ git init [to initialize git repository in pwd]
 git status [list untracked files]
 git add -A [adding all untracked files to staging area]
 git commit -m "message" [from staging area to local repository]
+git branch [list all branchs]
+
